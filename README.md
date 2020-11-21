@@ -3,10 +3,10 @@
 
 ## front
 
-![front](img/pcb-front.jpg)
+![front](imgs/pcb-front.jpg)
 
 
 ## back
 
-![back](img/pcb-back.jpg)
+![back](imgs/pcb-back.jpg)
 
