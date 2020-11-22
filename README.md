@@ -21,16 +21,21 @@
 ## power supply connector
 
 1. 5V
-2. NC
+2. 5V
 3. 5V
-4. 5V
+4. Ground
 5. Ground
-6. Ground
-7. EAN1
-8. DIM1
+6. EAN1
+7. DIM1
+8. NC
 9. NC
 10. NC
-11. NC
-12. SAVING ON/OFF
-13. Ground
+11. SAVING ON/OFF
+12. Ground
+
+## JTAG
+
+1. Vref 2.5v
+6. GND
+
 
