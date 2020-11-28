@@ -36,10 +36,30 @@
 ## JTAG
 
 1. Vref 2.5v
-2.
-3.
-4.
-5.
+2. TDI
+3. TMS
+4. TDO
+5. TCK
 6. GND
+
+## jtag detect
+
+        Connected to libftdi driver.
+        IR length: 6
+        Chain length: 1
+        Device Id: 00110100000000011101000010010011 (0x3401D093)
+          Manufacturer: Xilinx (0x093)
+          Part(0):      xc6slx150 (0x401D)
+          Unknown stepping! (0011) (/usr/share/urjtag/xilinx/xc6slx150/STEPPINGS)
+         No. Manufacturer              Part                 Stepping Instruction          Register                        
+        -------------------------------------------------------------------------------------------------------------------
+        *  0                                                         (none)               (none)                          
+
+
+
+
+## References
+
+* [pano-wiki / G2 Zero Client](https://pano-wiki.cyrozap.com/wiki:g2_zero_client)
 
 
